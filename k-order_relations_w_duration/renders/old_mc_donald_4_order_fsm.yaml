@@ -1,0 +1,78 @@
+A5_quarter_A5_quarter_G5_quarter:
+- G5_quarter
+- 3
+A5_quarter_G5_quarter_G5_quarter:
+- F5_whole
+- 3
+C4_half_A5_quarter_A5_quarter:
+- G5_quarter
+- 3
+C4_quarter_D4_quarter_D4_quarter:
+- C4_half
+- 3
+D4_quarter_C4_half_A5_quarter:
+- A5_quarter
+- 3
+D4_quarter_D4_quarter_C4_half:
+- A5_quarter
+- 3
+F4_half_F5_quarter_F5_quarter:
+- F5_quarter
+- 1
+F4_quarter_C4_quarter_D4_quarter:
+- D4_quarter
+- 3
+F4_quarter_F4_half_F5_quarter:
+- F5_quarter
+- 1
+F4_quarter_F4_quarter_C4_quarter:
+- D4_quarter
+- 3
+F4_quarter_F4_quarter_F4_half:
+- F5_quarter
+- 1
+F4_quarter_F4_quarter_F4_quarter:
+- C4_quarter
+- 3
+F5_half_F4_quarter_F4_quarter:
+- F4_quarter
+- 1
+F5_quarter_F5_half_F4_quarter:
+- F4_quarter
+- 1
+F5_quarter_F5_quarter_F5_half:
+- F4_quarter
+- 1
+F5_quarter_F5_quarter_F5_quarter:
+- F5_half
+- 1
+- F5_quarter
+- 3
+- Rest_quarter
+- 1
+F5_quarter_F5_quarter_Rest_quarter:
+- F4_quarter
+- 1
+F5_quarter_Rest_quarter_F4_quarter:
+- F4_quarter
+- 1
+F5_whole_F4_quarter_F4_quarter:
+- F4_quarter
+- 1
+F5_whole_F5_quarter_F5_quarter:
+- F5_quarter
+- 1
+G5_quarter_F5_whole_F4_quarter:
+- F4_quarter
+- 1
+G5_quarter_F5_whole_F5_quarter:
+- F5_quarter
+- 1
+G5_quarter_G5_quarter_F5_whole:
+- F4_quarter
+- 1
+- F5_quarter
+- 1
+Rest_quarter_F4_quarter_F4_quarter:
+- F4_half
+- 1

@@ -1,0 +1,49 @@
+A5_quarter:
+- A5_quarter
+- 3
+- G5_quarter
+- 3
+C4_half:
+- A5_quarter
+- 3
+C4_quarter:
+- D4_quarter
+- 3
+D4_quarter:
+- C4_half
+- 3
+- D4_quarter
+- 3
+F4_half:
+- F5_quarter
+- 1
+F4_quarter:
+- C4_quarter
+- 3
+- F4_half
+- 1
+- F4_quarter
+- 7
+F5_half:
+- F4_quarter
+- 1
+F5_quarter:
+- F5_half
+- 1
+- F5_quarter
+- 7
+- Rest_quarter
+- 1
+F5_whole:
+- F4_quarter
+- 1
+- F5_quarter
+- 1
+G5_quarter:
+- F5_whole
+- 3
+- G5_quarter
+- 3
+Rest_quarter:
+- F4_quarter
+- 1
